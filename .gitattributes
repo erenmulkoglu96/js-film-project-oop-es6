@@ -1,0 +1,14 @@
+# .gitattributes
+
+# Derleme çıktıları / paketler
+dist/** linguist-generated
+build/** linguist-generated
+**/*.map linguist-generated
+**/*.min.js linguist-vendored
+
+# wwwroot içindeki 3rd-party varlıklar (Bootstrap, jQuery, vs.)
+wwwroot/lib/** linguist-vendored
+wwwroot/**/vendor/** linguist-vendored
+
+# Dökümantasyon / örnekler (isteğe bağlı)
+docs/** linguist-documentation
