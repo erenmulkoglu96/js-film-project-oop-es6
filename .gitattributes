@@ -1,15 +1,9 @@
-# ES6 tarafında daha önce istediğin 4 dosyayı dışla
-"Film Project - ES6/ui.js"        linguist-vendored
-"Film Project - ES6/storage.js"   linguist-vendored
-"Film Project - ES6/project.js"   linguist-vendored
-"Film Project - ES6/film.js"      linguist-vendored
+"Film Project - ES6/ui.js"       linguist-vendored=true
+"Film Project - ES6/storage.js"  linguist-vendored=true
+"Film Project - ES6/project.js"  linguist-vendored=true
+"Film Project - ES6/film.js"     linguist-vendored=true
 
-# PROTOTYPE tarafını dışla (tamamını veya seçerek)
-# 1) Tamamını dışlamak (hızlı ve kesin düşüş):
-"Film Project - Prototype/**/*.js" linguist-vendored
-
-# 2) Yalnızca belirli dosyaları dışlamak istersen, üstteki satırı silip şunları kullan:
-#"Film Project - Prototype/ui.js"        linguist-vendored
-#"Film Project - Prototype/storage.js"   linguist-vendored
-#"Film Project - Prototype/project.js"   linguist-vendored
-#"Film Project - Prototype/film.js"      linguist-vendored
+"Film Project - Prototype/ui.js"       linguist-vendored=true
+"Film Project - Prototype/storage.js"  linguist-vendored=true
+"Film Project - Prototype/project.js"  linguist-vendored=true
+"Film Project - Prototype/film.js"     linguist-vendored=true
