@@ -1,5 +1,11 @@
-# js-film-project-oop-es6 → Film Project - ES6 klasöründeki belirli dosyaları hariç tut
+# ES6 klasöründe hariç tuttuğumuz dosyalar
 "Film Project - ES6/ui.js"       linguist-vendored
 "Film Project - ES6/storage.js"  linguist-vendored
 "Film Project - ES6/project.js"  linguist-vendored
 "Film Project - ES6/film.js"     linguist-vendored
+
+# Prototype klasörü içindeki JS dosyalarını dışla (örnek olarak isimleri görselde olduğu varsayılarak)
+"Film Project - Prototype/ui.js"       linguist-vendored
+"Film Project - Prototype/storage.js"  linguist-vendored
+"Film Project - Prototype/project.js"  linguist-vendored
+"Film Project - Prototype/film.js"     linguist-vendored
