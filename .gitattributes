@@ -1,5 +1,0 @@
-**/*.min.js         linguist-vendored
-**/*.map            linguist-generated
-assets/**           linguist-vendored        # varsa
-vendor/**           linguist-vendored        # varsa
-dist/**             linguist-generated       # varsa
